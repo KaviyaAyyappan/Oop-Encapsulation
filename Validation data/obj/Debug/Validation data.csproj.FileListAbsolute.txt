@@ -1,0 +1,7 @@
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\Validation data\bin\Debug\Validation data.exe.config
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\Validation data\bin\Debug\Validation data.exe
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\Validation data\bin\Debug\Validation data.pdb
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\Validation data\obj\Debug\Validation data.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\Validation data\obj\Debug\Validation data.exe
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\Validation data\obj\Debug\Validation data.pdb
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\Validation data\obj\Debug\Validation data.csprojAssemblyReference.cache

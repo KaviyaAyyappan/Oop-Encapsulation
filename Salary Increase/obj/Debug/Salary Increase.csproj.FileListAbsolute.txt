@@ -1,0 +1,7 @@
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\Salary Increase\bin\Debug\Salary Increase.exe.config
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\Salary Increase\bin\Debug\Salary Increase.exe
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\Salary Increase\bin\Debug\Salary Increase.pdb
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\Salary Increase\obj\Debug\Salary Increase.csprojAssemblyReference.cache
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\Salary Increase\obj\Debug\Salary Increase.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\Salary Increase\obj\Debug\Salary Increase.exe
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\Salary Increase\obj\Debug\Salary Increase.pdb

@@ -1,0 +1,14 @@
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\FirstAndReverseTeam\bin\Debug\FirstAndReverseTeam.exe.config
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\FirstAndReverseTeam\bin\Debug\FirstAndReverseTeam.exe
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\FirstAndReverseTeam\bin\Debug\FirstAndReverseTeam.pdb
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\FirstAndReverseTeam\obj\Debug\FirstAndReverseTeam.csprojAssemblyReference.cache
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\FirstAndReverseTeam\obj\Debug\FirstAndReverseTeam.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\FirstAndReverseTeam\obj\Debug\FirstAndReverseTeam.exe
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\FirstAndReverseTeam\obj\Debug\FirstAndReverseTeam.pdb
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\Encapsulation\FirstAndReverseTeam\bin\Debug\FirstAndReverseTeam.exe.config
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\Encapsulation\FirstAndReverseTeam\bin\Debug\FirstAndReverseTeam.exe
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\Encapsulation\FirstAndReverseTeam\bin\Debug\FirstAndReverseTeam.pdb
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\Encapsulation\FirstAndReverseTeam\obj\Debug\FirstAndReverseTeam.csprojAssemblyReference.cache
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\Encapsulation\FirstAndReverseTeam\obj\Debug\FirstAndReverseTeam.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\Encapsulation\FirstAndReverseTeam\obj\Debug\FirstAndReverseTeam.exe
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\Encapsulation\FirstAndReverseTeam\obj\Debug\FirstAndReverseTeam.pdb

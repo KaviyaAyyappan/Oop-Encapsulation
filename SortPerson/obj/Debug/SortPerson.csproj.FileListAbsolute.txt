@@ -1,0 +1,7 @@
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\SortPerson\bin\Debug\SortPerson.exe.config
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\SortPerson\bin\Debug\SortPerson.exe
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\SortPerson\bin\Debug\SortPerson.pdb
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\SortPerson\obj\Debug\SortPerson.csprojAssemblyReference.cache
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\SortPerson\obj\Debug\SortPerson.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\SortPerson\obj\Debug\SortPerson.exe
+C:\Users\kaviya\source\repos\Oop exercise\Exercise 1\SortPerson\SortPerson\obj\Debug\SortPerson.pdb
